@@ -39,32 +39,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# React-TodoApp
+To-Do-App-in-React-code
+This is a simple To Do Application in react. This is a fun project to do for beginners who are trying to learn and get their hands dirty on React. In this application, I've used React components, React forms, event handlers etc. It is a very easy quick application to do.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Commands used to install Font awesome:
+$ npm i --save @fortawesome/fontawesome-svg-core
 
-### Analyzing the Bundle Size
+$ npm i --save @fortawesome/free-solid-svg-icons
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+$ npm i --save @fortawesome/react-fontawesome
 
-### Making a Progressive Web App
+Commands used to publish react files in github:
+git remote set-url origin https://github.com/shruthi120/React-TodoApp
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+npm run build
 
-### Advanced Configuration
+npm run deploy
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The published To-do App:
+https://shruthi120.github.io/React-TodoApp/
